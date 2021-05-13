@@ -66,13 +66,13 @@ Techs that I want to learn:
 <h2>Find me on</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/pazfelipe" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/pazfelipe" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pazfelipe/"/></a>
   
-  <a href="https://t.me/felipepaz" alt="Telegram">
+  <a href="https://t.me/felipepaz" alt="Telegram" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-  <a href="https://www.instagram.com/felipepaz/" alt="Instagram">
+  <a href="https://www.instagram.com/felipepaz/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
