@@ -12,7 +12,7 @@ I'm glad to see you here and don't forget to star my repos and follow me here, i
 
 <p>I'm apassionate about the open source world but 🤔 unfortunately I haven't contributed with some project <strong>yet</strong>.</p>
 
-<p>Nowadays I have a list of UI clone projects using VueJs or Svelte and other ones using <strong><i>"Vanilla Nodejs"</i></strong>.</p>
+<p>Nowadays I intend to finish a list of UI clone projects of mine, using VueJs and or React and other ones using <strong><i>"Vanilla Nodejs"</i></strong>.</p>
 
 ---
 
