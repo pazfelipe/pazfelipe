@@ -113,5 +113,5 @@ Techs that I want to learn:
 </p>
 
 <div>
-  ![Snake animation](https://github.com/pazfelipe/pazfelipe/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/pazfelipe/pazfelipe/14dea6a92a527430894fa26ccfdeadaa4aba45ab/github-contribution-grid-snake.svg" />
 </div>
