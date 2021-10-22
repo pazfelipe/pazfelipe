@@ -1,5 +1,11 @@
 ### 👋👋 Hello!! How's goin'?
 
+<div align="center">
+  <a href="https://github.com/pazfelipe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pazfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazfelipe&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ---
 
 <p align="left">
@@ -104,3 +110,7 @@ Techs that I want to learn:
   <img src="https://img.shields.io/badge/Terraform-594CDE?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Jenkins-E0C3A4?style=for-the-badge&logo=jenkins&logoColor=black" alt="Jenkins">
 </p>
+
+<div>  
+  ![Snake animation](https://github.com/pazfelipe/pazfelipe/blob/output/github-contribution-grid-snake.svg)
+</div>
