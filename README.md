@@ -111,7 +111,3 @@ Techs that I want to learn:
   <img src="https://img.shields.io/badge/Terraform-594CDE?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Jenkins-E0C3A4?style=for-the-badge&logo=jenkins&logoColor=black" alt="Jenkins">
 </p>
-
-<div>
-  <img src="https://raw.githubusercontent.com/pazfelipe/pazfelipe/14dea6a92a527430894fa26ccfdeadaa4aba45ab/github-contribution-grid-snake.svg" />
-</div>
