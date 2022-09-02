@@ -25,10 +25,10 @@ I'm glad to see you here and don't forget to star my repos and follow me here, i
 
 <p>Below you can see my tech stack and other technologies that I intend to learn them.</p>
 
-Techs that I know:
+Techs I know:
 
 <dt>
-  <dd>⚡ Linux (Fedora/Ubuntu)</dd>
+  <dd>⚡ Linux</dd>
   <dd>⚡ NodeJs</dd>
   <dd>⚡ ES6</dd>
   <dd>⚡ VueJs</dd>
@@ -38,10 +38,17 @@ Techs that I know:
   <dd>⚡ RabbitMQ</dd>
   <dd>⚡ Microservices</dd>
   <dd>⚡ Jest</dd>
-  <dd>⚡ Cypress</dd>
   <dd>⚡ Nginx</dd>
   <dd>⚡ Typescript</dd>
   <dd>⚡ Git</dd>
+  <dd>⚡ Docker</dd>
+  <dd>⚡ Kubernetes</dd>
+  <dd>⚡ GCP</dd>
+  <dd>⚡ AWS</dd>
+  <dd>⚡ Terraform</dd>
+  <dd>⚡ Prometheus</dd>
+  <dd>⚡ Grafana</dd>
+  <dd>⚡ Jenkins</dd>
 </dt>
 
 </br>
@@ -49,22 +56,16 @@ Techs that I know:
 Techs that I have a certain knowledge and or I have to improve them:
 
 <dt>
-  <dd>⚡ Docker</dd>
-  <dd>⚡ React</dd>
   <dd>⚡ Flutter</dd>
   <dd>⚡ Postgresql</dd>
 </dt>
 
 </br>
 
-Techs that I want to learn:
+Techs I want to learn:
 
 <dt>
   <dd>⚡ Rust</dd>
-  <dd>⚡ DevOps Concepts</dd>
-  <dd>⚡ Jenkins</dd>
-  <dd>⚡ Graphana</dd>
-  <dd>⚡ Prometheus</dd>
   <dd>⚡ React Native</dd>
 </dt>
 
