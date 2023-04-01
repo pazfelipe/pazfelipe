@@ -14,6 +14,9 @@ I'm glad to see you here and don't forget to star my repos and follow me here, i
 
 <p>Nowadays I intend to finish a list of UI clone projects of mine, using VueJs and or React and other ones using <strong><i>"Vanilla Nodejs"</i></strong>.</p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 <p>Below you can see my tech stack and other technologies that I intend to learn them.</p>
