@@ -2,72 +2,8 @@
 
 ---
 
-<p align="left">
-I'm glad to see you here and don't forget to star my repos and follow me here, if you want it, of course!!!
-</p>
 
 <img src="https://brasil.cambly.com/wp-content/uploads/2019/12/aprender-ingles-ao-vivo-online-english-cambly-live.gif" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p>I'm a fullstack developer focused on web solutions using Node and Linux as programing tools.</p>
-
-<p>I'm apassionate about the open source world but 🤔 unfortunately I haven't contributed with some project <strong>yet</strong>.</p>
-
-<p>Nowadays I intend to finish a list of UI clone projects of mine, using VueJs and or React and other ones using <strong><i>"Vanilla Nodejs"</i></strong>.</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<p>Below you can see my tech stack and other technologies that I intend to learn them.</p>
-
-Techs I know:
-
-<dt>
-  <dd>⚡ Linux</dd>
-  <dd>⚡ NodeJs</dd>
-  <dd>⚡ ES6</dd>
-  <dd>⚡ VueJs</dd>
-  <dd>⚡ Redis</dd>
-  <dd>⚡ MongoDB</dd>
-  <dd>⚡ Mysql</dd>
-  <dd>⚡ RabbitMQ</dd>
-  <dd>⚡ Microservices</dd>
-  <dd>⚡ Jest</dd>
-  <dd>⚡ Nginx</dd>
-  <dd>⚡ Typescript</dd>
-  <dd>⚡ Git</dd>
-  <dd>⚡ Docker</dd>
-  <dd>⚡ Kubernetes</dd>
-  <dd>⚡ GCP</dd>
-  <dd>⚡ AWS</dd>
-  <dd>⚡ Terraform</dd>
-  <dd>⚡ Prometheus</dd>
-  <dd>⚡ Grafana</dd>
-  <dd>⚡ Jenkins</dd>
-</dt>
-
-</br>
-
-Techs that I have a certain knowledge and or I have to improve them:
-
-<dt>
-  <dd>⚡ Flutter</dd>
-  <dd>⚡ Postgresql</dd>
-</dt>
-
-</br>
-
-Techs I want to learn:
-
-<dt>
-  <dd>⚡ Rust</dd>
-  <dd>⚡ React Native</dd>
-</dt>
-
-</br>
-
-<h2>Find me on</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/pazfelipe" alt="Linkedin" target="_blank">
