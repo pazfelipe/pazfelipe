@@ -21,6 +21,8 @@
 
 ---
 
+<p>If you come here and see my account completely empty, don't be scared!!! ... I'm cleaning up the house and I will add interesting repositories soon.</p>
+
 <h2 align="center">Technology stack</h2>
 
 <p>
