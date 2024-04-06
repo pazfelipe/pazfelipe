@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/felipepaz/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   Felipe Paz
-</p>
+</h1>
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-<p>If you come here and see my account completely empty, don't be scared!!! ... I'm cleaning up the house and I will add interesting repositories soon.</p>
+<p align="center">If you come here and see my account completely empty, don't be scared!!! ... I'm cleaning up the house and I will add interesting repositories soon.</p>
 
 <h2 align="center">Technology stack</h2>
 
