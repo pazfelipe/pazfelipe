@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://thumbs.dreamstime.com/b/abstract-business-background-universal-wallpaper-finance-concept-silhouettes-people-mixed-media-futuristic-idias-mission-149572716.jpg" height="350" width="100%">
+  <img src="https://media.licdn.com/dms/image/D5616AQHPqOtAY15sug/profile-displaybackgroundimage-shrink_350_1400/0/1719071730138?e=1726099200&v=beta&t=YHGuyXfD5TZH1z1p806Ellua2cGgLcix1lyksHQkNGE" height="350" width="100%">
 </p>
 
 <h1>Social Networks</h1>
