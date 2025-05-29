@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQHPqOtAY15sug/profile-displaybackgroundimage-shrink_350_1400/0/1719071730138?e=1726099200&v=beta&t=YHGuyXfD5TZH1z1p806Ellua2cGgLcix1lyksHQkNGE" height="350" width="100%">
+  <img src="https://github.com/user-attachments/assets/9a095c0b-6b77-42dc-acbb-9db28a68f046"/>
 </p>
 
 <h1>Social Networks</h1>
@@ -22,8 +22,23 @@
 
 </br>
 <p align="center">
-  If you come here and see my account completely empty, don't be scared!!! ... I'm cleaning up the house and I will add interesting repositories soon.
+  Yeah, I know… it looks like I deleted my career. But calm down — I’m just Marie Kondo-ing my GitHub. Repos that don’t spark joy are gone. Cool stuff coming soon (I swear)
 </p>
+</br>
+
+---
+
+</br>
+<h2 align="center">
+  Projects
+</h2>
+<ul>
+  <li>
+    <a href="https://doepad.com" target="_blank" >
+      DoePad
+    <a/>
+  </li>
+</ul>
 </br>
 
 ---
@@ -35,26 +50,21 @@
 <h3>Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" atl="Python"/>
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" atl="Golang"/>
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" atl="Dart"/>
-  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" atl="Rust"/>
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" atl="Shell Script"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" atl="Fastify"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" atl="Python"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" atl="Golang"/>
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" atl="Shell Script"/>
 </p>
 
 <h3>Frontend</h3>
 <p>
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" atl="GraphQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vuejs">
   <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" atl="React"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJs"/>
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte" alt="Svelte"> 
   <img src="https://img.shields.io/badge/NativeScript-3655FF?style=for-the-badge&logo=NativeScript&logoColor=black" alt="Nativescript">
 </p>
 
