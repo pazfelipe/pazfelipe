@@ -36,7 +36,12 @@
   <li>
     <a href="https://doepad.com" target="_blank" >
       DoePad
-    <a/>
+    </a>
+  </li>
+  <li>
+    <a href="https://sussurros-do-oraculo.vercel.app/" target="_blank">
+      Sussurros do Oráculo
+    </a>
   </li>
 </ul>
 </br>
