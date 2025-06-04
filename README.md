@@ -39,7 +39,7 @@
     </a>
   </li>
   <li>
-    <a href="https://sussurros-do-oraculo.vercel.app/" target="_blank">
+    <a href="https://sussurrosdooraculo.com" target="_blank">
       Sussurros do Oráculo
     </a>
   </li>
