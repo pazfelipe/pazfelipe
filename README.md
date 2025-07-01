@@ -43,6 +43,11 @@
       Sussurros do Oráculo
     </a>
   </li>
+   <li>
+    <a href="https://chaos-sigil-maker.vercel.app" target="_blank">
+      Criados de Sigilos da Magia do Caos
+    </a>
+  </li>
 </ul>
 </br>
 
