@@ -48,6 +48,16 @@
       Criador de Sigilos da Magia do Caos
     </a>
   </li>
+  <li>
+    <a href="https://t.me/finsmarta_bot" target="_blank">
+      Controle financeiro (Bot Telegram + N8N)
+    </a>
+  </li>
+  <li>
+    <a href="https://t.me/the_devil_wizard_bot" target="_blank">
+      Criador de feitiços (Bot Telegram + N8N)
+    </a>
+  </li>
 </ul>
 </br>
 
