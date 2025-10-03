@@ -34,6 +34,11 @@
 </h2>
 <ul>
   <li>
+    <a href="https://syndra.app" target="_blank">
+      Syndra - GitOps tool
+    </a>
+  </li>
+  <li>
     <a href="https://doepad.com" target="_blank" >
       DoePad
     </a>
