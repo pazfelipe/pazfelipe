@@ -1,76 +1,61 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9a095c0b-6b77-42dc-acbb-9db28a68f046"/>
-</p>
-
-<h1>Social Networks</h1>
+<h1>Social</h1>
 
 <p>
-  <a href="https://www.linkedin.com/in/pazfelipe" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pazfelipe/"/>
+  <a href="https://www.linkedin.com/in/pazfelipe" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  
-  <a href="https://t.me/felipepaz" alt="Telegram" target="_blank">
+  <a href="https://t.me/felipepaz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-
-  <a href="https://www.instagram.com/felipepaz/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-</br>
 <p align="center">
-  Yeah, I know… it looks like I deleted my career. But calm down — I’m just Marie Kondo-ing my GitHub. Repos that don’t spark joy are gone. Cool stuff coming soon (I swear)
+  Software Engineer focused on Platform, DevOps, and Developer Experience.  
+  I build scalable systems, automation pipelines, GitOps tooling, and AI-powered workflows that run in production.
 </p>
-</br>
 
 ---
 
-</br>
-<h2 align="center">
-  Projects
-</h2>
+<h2 align="center">Highlighted Projects</h2>
+
 <ul>
   <li>
     <a href="https://syndra.app" target="_blank">
-      Syndra - GitOps tool
+      Syndra – Developer Platform (GitOps, Automation, Continuous Sync)
     </a>
   </li>
   <li>
-    <a href="https://doepad.com" target="_blank" >
-      DoePad
+    <a href="https://doepad.com" target="_blank">
+      DoePad – Real-time collaborative document engine (serverless sync & storage)
     </a>
   </li>
   <li>
     <a href="https://sussurrosdooraculo.com" target="_blank">
-      Sussurros do Oráculo
+      AI Decision Engine – LLM orchestration with self-hosted inference (Ollama)
     </a>
   </li>
-   <li>
+  <li>
     <a href="https://chaos-sigil-maker.vercel.app" target="_blank">
-      Criador de Sigilos da Magia do Caos
+      Generative Engine – Procedural rendering & dynamic graphics via Canvas
     </a>
   </li>
   <li>
     <a href="https://t.me/finsmarta_bot" target="_blank">
-      Controle financeiro (Bot Telegram + N8N)
+      Financial AI Assistant – Classification + automation pipeline (AI + n8n)
     </a>
   </li>
   <li>
     <a href="https://t.me/the_devil_wizard_bot" target="_blank">
-      Criador de feitiços (Bot Telegram + N8N)
+      Workflow AI Agent – Intent → structured pipeline execution (Telegram + AI)
     </a>
   </li>
 </ul>
-</br>
 
 ---
 
-
-
-<h2 align="center">Technology stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <h3>Backend</h3>
 <p>
