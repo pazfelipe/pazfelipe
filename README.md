@@ -26,6 +26,11 @@
       Syndra – Developer Platform (GitOps, Automation, Continuous Sync)
     </a>
   </li>
+ <li>
+    <a href="https://github.com/pazfelipe/reloader" target="_blank">
+      Reloader – Kubernetes Operator (ConfigMap/Secret watcher & auto-restart)
+    </a>
+  </li>
   <li>
     <a href="https://doepad.com" target="_blank">
       DoePad – Real-time collaborative document engine (serverless sync & storage)
