@@ -23,7 +23,7 @@
 <ul>
   <li>
     <a href="https://syndra.app" target="_blank">
-      Syndra – Developer Platform (GitOps, Automation, Continuous Sync)
+      Syndra – Full GitOps Tool (GitOps, Automation, Continuous Sync)
     </a>
   </li>
  <li>
